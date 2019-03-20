@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="80" started-at="2019-03-20T06:47:05Z" finished-at="2019-03-20T06:47:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="80" started-at="2019-03-20T06:47:05Z" finished-at="2019-03-20T06:47:05Z">
+      <class name="ExtentReport.ExtentReport.TestNgBasics">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="setUp" is-config="true" duration-ms="22" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="launchBrowser" is-config="true" duration-ms="1" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="eneterURL()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="eneterURL" is-config="true" duration-ms="1" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eneterURL -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="login" is-config="true" duration-ms="0" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="googleTitleTest()[pri:1, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="googleTitleTest" duration-ms="9" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method status="PASS" signature="logut()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="logut" is-config="true" duration-ms="0" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logut -->
+        <test-method status="PASS" signature="searchTest()[pri:2, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="searchTest" duration-ms="4" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="login" is-config="true" duration-ms="0" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logut()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="logut" is-config="true" duration-ms="0" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logut -->
+        <test-method status="PASS" signature="deleteAllcookies()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="deleteAllcookies" is-config="true" duration-ms="2" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllcookies -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2019-03-20T12:17:05Z" finished-at="2019-03-20T12:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="genearteTestReport()[pri:0, instance:ExtentReport.ExtentReport.TestNgBasics@55f3ddb1]" name="genearteTestReport" is-config="true" duration-ms="1" started-at="2019-03-20T12:17:06Z" finished-at="2019-03-20T12:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genearteTestReport -->
+      </class> <!-- ExtentReport.ExtentReport.TestNgBasics -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
